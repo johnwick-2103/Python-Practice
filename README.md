@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/johnwick-2103/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -41,8 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
