@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/0434-number-of-segments-in-a-string) |
 ## String Matching
 |  |
 | ------- |
