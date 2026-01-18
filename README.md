@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/johnwick-2103/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/johnwick-2103/DSA/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/johnwick-2103/DSA/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/johnwick-2103/DSA/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/johnwick-2103/DSA/tree/master/0771-jewels-and-stones) |
