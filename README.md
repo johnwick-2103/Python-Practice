@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/johnwick-2103/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/johnwick-2103/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/johnwick-2103/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/johnwick-2103/DSA/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
