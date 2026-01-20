@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/johnwick-2103/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/johnwick-2103/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/johnwick-2103/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/johnwick-2103/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -80,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
