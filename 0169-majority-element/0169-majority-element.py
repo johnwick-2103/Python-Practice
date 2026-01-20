@@ -1,10 +1,12 @@
-from typing import List
-
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        count = {}
-
+    def majorityElement(self, nums):
+        count = 0
+        candidate = None
         for num in nums:
-            count[num] = count.get(num, 0) + 1
-            if count[num] > len(nums) // 2:
-                return num
+            if count == 0:
+                candidate = num
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
+        return candidate
