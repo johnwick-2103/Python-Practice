@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/johnwick-2103/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/johnwick-2103/DSA/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/johnwick-2103/DSA/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
