@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 ## Simulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/johnwick-2103/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
