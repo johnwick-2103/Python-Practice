@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/johnwick-2103/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/johnwick-2103/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnwick-2103/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/johnwick-2103/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/johnwick-2103/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/johnwick-2103/DSA/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/johnwick-2103/DSA/tree/master/0917-reverse-only-letters) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/johnwick-2103/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/johnwick-2103/DSA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 ## Counting
