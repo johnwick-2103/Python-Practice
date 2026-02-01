@@ -3,12 +3,12 @@ class Solution:
         if n <= 2:
             return 0
 
-        is_prime = [True] * n
-        is_prime[0] = is_prime[1] = False
+        prime = [True] * n
+        prime[0] = prime[1] = False
 
         for i in range(2, int(n ** 0.5) + 1):
-            if is_prime[i]:
+            if prime[i]:
                 for j in range(i * i, n, i):
-                    is_prime[j] = False
+                    prime[j] = False
 
-        return sum(is_prime)
+        return sum(prime)
