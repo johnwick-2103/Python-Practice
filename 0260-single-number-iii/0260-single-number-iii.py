@@ -1,10 +1,10 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
-        xor_all = 0
+        xor = 0
         for n in nums:
-            xor_all ^= n
+            xor ^= n
 
-        diff_bit = xor_all & -xor_all
+        diff_bit = xor & -xor
 
         a = b = 0
         for n in nums:
