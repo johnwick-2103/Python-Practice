@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/johnwick-2103/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/johnwick-2103/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/johnwick-2103/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnwick-2103/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/johnwick-2103/DSA/tree/master/0414-third-maximum-number) |
+| [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/johnwick-2103/DSA/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/johnwick-2103/DSA/tree/master/0152-maximum-product-subarray) |
+| [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 ## Enumeration
 |  |
 | ------- |
@@ -162,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/johnwick-2103/DSA/tree/master/0680-valid-palindrome-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
