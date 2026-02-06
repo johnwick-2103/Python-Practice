@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/johnwick-2103/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/johnwick-2103/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/johnwick-2103/DSA/tree/master/0152-maximum-product-subarray) |
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
+| [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
