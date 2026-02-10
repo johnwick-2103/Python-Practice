@@ -1,5 +1,5 @@
 class Solution:
-    def largestTriangleArea(self, points: List[List[int]]) -> float:
+    def largestTriangleArea(self, points):
         max_area = 0
 
         n = len(points)
