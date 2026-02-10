@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/johnwick-2103/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/johnwick-2103/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/johnwick-2103/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/johnwick-2103/DSA/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 ## Simulation
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
