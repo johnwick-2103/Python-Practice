@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/johnwick-2103/DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/johnwick-2103/DSA/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/johnwick-2103/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/johnwick-2103/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/johnwick-2103/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/johnwick-2103/DSA/tree/master/0704-binary-search) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/johnwick-2103/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/johnwick-2103/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Depth-First Search
 |  |
