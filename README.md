@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnwick-2103/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/johnwick-2103/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
