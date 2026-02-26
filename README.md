@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/johnwick-2103/DSA/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/johnwick-2103/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/johnwick-2103/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/johnwick-2103/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
 |  |
