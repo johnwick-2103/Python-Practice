@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/johnwick-2103/DSA/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/johnwick-2103/DSA/tree/master/2032-two-out-of-three) |
+| [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3701-compute-alternating-sum](https://github.com/johnwick-2103/DSA/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnwick-2103/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/johnwick-2103/DSA/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
+| [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
