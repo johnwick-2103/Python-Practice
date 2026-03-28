@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/johnwick-2103/DSA/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/johnwick-2103/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/johnwick-2103/DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/johnwick-2103/DSA/tree/master/2032-two-out-of-three) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnwick-2103/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/johnwick-2103/DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/johnwick-2103/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
