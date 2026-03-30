@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3151-special-array-i](https://github.com/johnwick-2103/DSA/tree/master/3151-special-array-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
 | [3701-compute-alternating-sum](https://github.com/johnwick-2103/DSA/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnwick-2103/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
