@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnwick-2103/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/johnwick-2103/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2815-max-pair-sum-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/johnwick-2103/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/johnwick-2103/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnwick-2103/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnwick-2103/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
