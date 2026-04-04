@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/johnwick-2103/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/johnwick-2103/DSA/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/johnwick-2103/DSA/tree/master/1122-relative-sort-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
