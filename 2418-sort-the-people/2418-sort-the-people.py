@@ -1,9 +1,7 @@
 class Solution:
     def sortPeople(self, names, heights):
-        result = []
+        paired = list(zip(names, heights))
         
-        for h in sorted(heights, reverse=True):
-            index = heights.index(h)
-            result.append(names[index])
+        paired.sort(key=lambda x: x[1], reverse=True)
         
-        return result
+        return [name for name, _ in paired]
