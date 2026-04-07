@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/johnwick-2103/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/johnwick-2103/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/johnwick-2103/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/johnwick-2103/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/johnwick-2103/DSA/tree/master/0414-third-maximum-number) |
