@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/johnwick-2103/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/johnwick-2103/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/johnwick-2103/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/johnwick-2103/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/johnwick-2103/DSA/tree/master/0832-flipping-an-image) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/johnwick-2103/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/johnwick-2103/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/johnwick-2103/DSA/tree/master/0260-single-number-iii) |
