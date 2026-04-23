@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/johnwick-2103/DSA/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnwick-2103/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/johnwick-2103/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/johnwick-2103/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/johnwick-2103/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/johnwick-2103/DSA/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/johnwick-2103/DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/johnwick-2103/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/johnwick-2103/DSA/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/johnwick-2103/DSA/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/johnwick-2103/DSA/tree/master/2032-two-out-of-three) |
