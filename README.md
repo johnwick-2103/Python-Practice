@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/johnwick-2103/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/johnwick-2103/DSA/tree/master/3798-largest-even-number) |
 ## String Matching
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-max-pair-sum-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/johnwick-2103/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnwick-2103/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnwick-2103/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/johnwick-2103/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
+| [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
