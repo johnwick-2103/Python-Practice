@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/johnwick-2103/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/johnwick-2103/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/johnwick-2103/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/johnwick-2103/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/johnwick-2103/DSA/tree/master/0125-valid-palindrome) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/johnwick-2103/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/johnwick-2103/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/johnwick-2103/DSA/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/johnwick-2103/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnwick-2103/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 ## Queue
