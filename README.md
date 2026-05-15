@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/johnwick-2103/DSA/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/johnwick-2103/DSA/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/johnwick-2103/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/johnwick-2103/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/johnwick-2103/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
