@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/johnwick-2103/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/johnwick-2103/DSA/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/johnwick-2103/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/johnwick-2103/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/johnwick-2103/DSA/tree/master/2418-sort-the-people) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/johnwick-2103/DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/johnwick-2103/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/johnwick-2103/DSA/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/johnwick-2103/DSA/tree/master/3794-reverse-string-prefix) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/johnwick-2103/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/johnwick-2103/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/johnwick-2103/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/johnwick-2103/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/johnwick-2103/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/johnwick-2103/DSA/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/johnwick-2103/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/johnwick-2103/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/johnwick-2103/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/johnwick-2103/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/johnwick-2103/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/johnwick-2103/DSA/tree/master/3701-compute-alternating-sum) |
