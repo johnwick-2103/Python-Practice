@@ -1,0 +1,13 @@
+class Solution:
+    def addSpaces(self, s: str, spaces):
+        res = ""
+        j = 0
+
+        for i in range(len(s)):
+            if j < len(spaces) and i == spaces[j]:
+                res += " "
+                j += 1
+
+            res += s[i]
+
+        return res
