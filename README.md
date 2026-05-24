@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnwick-2103/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/johnwick-2103/DSA/tree/master/2540-minimum-common-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/johnwick-2103/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/johnwick-2103/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/johnwick-2103/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2815-max-pair-sum-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/johnwick-2103/DSA/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/johnwick-2103/DSA/tree/master/2490-circular-sentence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/johnwick-2103/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/johnwick-2103/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/johnwick-2103/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
