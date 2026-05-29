@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3794-reverse-string-prefix](https://github.com/johnwick-2103/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/johnwick-2103/DSA/tree/master/3798-largest-even-number) |
+| [3931-check-adjacent-digit-differences](https://github.com/johnwick-2103/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## String Matching
 |  |
 | ------- |
