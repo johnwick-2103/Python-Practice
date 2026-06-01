@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/johnwick-2103/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/johnwick-2103/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/johnwick-2103/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/johnwick-2103/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/johnwick-2103/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/johnwick-2103/DSA/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/johnwick-2103/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/johnwick-2103/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/johnwick-2103/DSA/tree/master/2418-sort-the-people) |
