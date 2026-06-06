@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/johnwick-2103/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/johnwick-2103/DSA/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/johnwick-2103/DSA/tree/master/2810-faulty-keyboard) |
+| [2937-make-three-strings-equal](https://github.com/johnwick-2103/DSA/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
