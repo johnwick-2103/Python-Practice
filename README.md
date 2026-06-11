@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/johnwick-2103/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/johnwick-2103/DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/johnwick-2103/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/johnwick-2103/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/johnwick-2103/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/johnwick-2103/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/johnwick-2103/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/johnwick-2103/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/johnwick-2103/DSA/tree/master/0012-integer-to-roman) |
+| [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/johnwick-2103/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 ## Heap (Priority Queue)
 |  |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/johnwick-2103/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/johnwick-2103/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/johnwick-2103/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/johnwick-2103/DSA/tree/master/0410-split-array-largest-sum) |
@@ -499,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
