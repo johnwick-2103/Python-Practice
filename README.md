@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/johnwick-2103/DSA/tree/master/1528-shuffle-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/johnwick-2103/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/johnwick-2103/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/johnwick-2103/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/johnwick-2103/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/johnwick-2103/DSA/tree/master/1694-reformat-phone-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/johnwick-2103/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/johnwick-2103/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/johnwick-2103/DSA/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/johnwick-2103/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/johnwick-2103/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/johnwick-2103/DSA/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
+| [1668-maximum-repeating-substring](https://github.com/johnwick-2103/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Enumeration
 |  |
 | ------- |
