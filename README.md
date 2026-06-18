@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/johnwick-2103/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/johnwick-2103/DSA/tree/master/3798-largest-even-number) |
 | [3931-check-adjacent-digit-differences](https://github.com/johnwick-2103/DSA/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/johnwick-2103/DSA/tree/master/3941-password-strength) |
 ## String Matching
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/johnwick-2103/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
+| [3941-password-strength](https://github.com/johnwick-2103/DSA/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
