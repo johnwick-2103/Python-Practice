@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/johnwick-2103/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/johnwick-2103/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/johnwick-2103/DSA/tree/master/3798-largest-even-number) |
+| [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/johnwick-2103/DSA/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/johnwick-2103/DSA/tree/master/3941-password-strength) |
 ## String Matching
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/johnwick-2103/DSA/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/johnwick-2103/DSA/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
