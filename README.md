@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/johnwick-2103/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1324-print-words-vertically](https://github.com/johnwick-2103/DSA/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/johnwick-2103/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/johnwick-2103/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/johnwick-2103/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1324-print-words-vertically](https://github.com/johnwick-2103/DSA/tree/master/1324-print-words-vertically) |
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/johnwick-2103/DSA/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/johnwick-2103/DSA/tree/master/1446-consecutive-characters) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/johnwick-2103/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/johnwick-2103/DSA/tree/master/0844-backspace-string-compare) |
+| [1324-print-words-vertically](https://github.com/johnwick-2103/DSA/tree/master/1324-print-words-vertically) |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnwick-2103/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/johnwick-2103/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/johnwick-2103/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
