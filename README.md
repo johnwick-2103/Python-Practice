@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/johnwick-2103/DSA/tree/master/1859-sorting-the-sentence) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/johnwick-2103/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/johnwick-2103/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/johnwick-2103/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/johnwick-2103/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/johnwick-2103/DSA/tree/master/1980-find-unique-binary-string) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/johnwick-2103/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/johnwick-2103/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/johnwick-2103/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/johnwick-2103/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/johnwick-2103/DSA/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/johnwick-2103/DSA/tree/master/2032-two-out-of-three) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/johnwick-2103/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
