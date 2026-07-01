@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/johnwick-2103/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/johnwick-2103/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1324-print-words-vertically](https://github.com/johnwick-2103/DSA/tree/master/1324-print-words-vertically) |
+| [1360-number-of-days-between-two-dates](https://github.com/johnwick-2103/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/johnwick-2103/DSA/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/johnwick-2103/DSA/tree/master/1446-consecutive-characters) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1360-number-of-days-between-two-dates](https://github.com/johnwick-2103/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
