@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/johnwick-2103/DSA/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/johnwick-2103/DSA/tree/master/1446-consecutive-characters) |
+| [1507-reformat-date](https://github.com/johnwick-2103/DSA/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/johnwick-2103/DSA/tree/master/1528-shuffle-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/johnwick-2103/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/johnwick-2103/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
