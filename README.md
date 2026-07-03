@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/johnwick-2103/DSA/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/johnwick-2103/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/johnwick-2103/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/johnwick-2103/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/johnwick-2103/DSA/tree/master/3798-largest-even-number) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/johnwick-2103/DSA/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/johnwick-2103/DSA/tree/master/3941-password-strength) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/johnwick-2103/DSA/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/johnwick-2103/DSA/tree/master/3701-compute-alternating-sum) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
