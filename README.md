@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/johnwick-2103/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/johnwick-2103/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/johnwick-2103/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/johnwick-2103/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/johnwick-2103/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/johnwick-2103/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/johnwick-2103/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/johnwick-2103/DSA/tree/master/0383-ransom-note) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/johnwick-2103/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/johnwick-2103/DSA/tree/master/0415-add-strings) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnwick-2103/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnwick-2103/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/johnwick-2103/DSA/tree/master/0389-find-the-difference) |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/johnwick-2103/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/johnwick-2103/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/johnwick-2103/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/johnwick-2103/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/johnwick-2103/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/johnwick-2103/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
