@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnwick-2103/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/johnwick-2103/DSA/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/johnwick-2103/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/johnwick-2103/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/johnwick-2103/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/johnwick-2103/DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/johnwick-2103/DSA/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/johnwick-2103/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/johnwick-2103/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
