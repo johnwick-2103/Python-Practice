@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/johnwick-2103/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/johnwick-2103/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/johnwick-2103/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/johnwick-2103/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/johnwick-2103/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/johnwick-2103/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/johnwick-2103/DSA/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/johnwick-2103/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/johnwick-2103/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0697-degree-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/johnwick-2103/DSA/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/johnwick-2103/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
