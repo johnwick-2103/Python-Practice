@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/johnwick-2103/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/johnwick-2103/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/johnwick-2103/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/johnwick-2103/DSA/tree/master/0412-fizz-buzz) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/johnwick-2103/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/johnwick-2103/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/johnwick-2103/DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/johnwick-2103/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/johnwick-2103/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/johnwick-2103/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/johnwick-2103/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -599,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/johnwick-2103/DSA/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/johnwick-2103/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
