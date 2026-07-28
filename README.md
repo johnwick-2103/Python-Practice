@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/johnwick-2103/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/johnwick-2103/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/johnwick-2103/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1324-print-words-vertically](https://github.com/johnwick-2103/DSA/tree/master/1324-print-words-vertically) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/johnwick-2103/DSA/tree/master/1185-day-of-the-week) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/johnwick-2103/DSA/tree/master/1360-number-of-days-between-two-dates) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Prefix Sum
 |  |
 | ------- |
