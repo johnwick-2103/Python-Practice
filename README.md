@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/johnwick-2103/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/johnwick-2103/DSA/tree/master/1925-count-square-sum-triples) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/johnwick-2103/DSA/tree/master/1925-count-square-sum-triples) |
 | [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
