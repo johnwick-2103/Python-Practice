@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/johnwick-2103/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/johnwick-2103/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/johnwick-2103/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/johnwick-2103/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/johnwick-2103/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/johnwick-2103/DSA/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/johnwick-2103/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/johnwick-2103/DSA/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
