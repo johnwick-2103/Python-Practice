@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/johnwick-2103/DSA/tree/master/1925-count-square-sum-triples) |
+| [2235-add-two-integers](https://github.com/johnwick-2103/DSA/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/johnwick-2103/DSA/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
