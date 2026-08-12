@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/johnwick-2103/DSA/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
+| [0991-broken-calculator](https://github.com/johnwick-2103/DSA/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/johnwick-2103/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/johnwick-2103/DSA/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/johnwick-2103/DSA/tree/master/1185-day-of-the-week) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/johnwick-2103/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/johnwick-2103/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/johnwick-2103/DSA/tree/master/0984-string-without-aaa-or-bbb) |
+| [0991-broken-calculator](https://github.com/johnwick-2103/DSA/tree/master/0991-broken-calculator) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/johnwick-2103/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/johnwick-2103/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/johnwick-2103/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
