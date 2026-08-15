@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/johnwick-2103/DSA/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/johnwick-2103/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/johnwick-2103/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/johnwick-2103/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
