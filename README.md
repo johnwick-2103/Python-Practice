@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/johnwick-2103/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/johnwick-2103/DSA/tree/master/1323-maximum-69-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/johnwick-2103/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
