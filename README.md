@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/johnwick-2103/DSA/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/johnwick-2103/DSA/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/johnwick-2103/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/johnwick-2103/DSA/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/johnwick-2103/DSA/tree/master/3024-type-of-triangle) |
@@ -540,12 +541,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/johnwick-2103/DSA/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/johnwick-2103/DSA/tree/master/1952-three-divisors) |
 | [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/johnwick-2103/DSA/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/johnwick-2103/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/johnwick-2103/DSA/tree/master/2413-smallest-even-multiple) |
 ## Greedy
 |  |
@@ -652,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/johnwick-2103/DSA/tree/master/3024-type-of-triangle) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/johnwick-2103/DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/johnwick-2103/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
