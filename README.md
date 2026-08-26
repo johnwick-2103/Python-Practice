@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/johnwick-2103/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/johnwick-2103/DSA/tree/master/1694-reformat-phone-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/johnwick-2103/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/johnwick-2103/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/johnwick-2103/DSA/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/johnwick-2103/DSA/tree/master/1859-sorting-the-sentence) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/johnwick-2103/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/johnwick-2103/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/johnwick-2103/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/johnwick-2103/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/johnwick-2103/DSA/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/johnwick-2103/DSA/tree/master/1952-three-divisors) |
