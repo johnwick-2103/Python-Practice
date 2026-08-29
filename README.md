@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/johnwick-2103/DSA/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/johnwick-2103/DSA/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
+| [3280-convert-date-to-binary](https://github.com/johnwick-2103/DSA/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/johnwick-2103/DSA/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/johnwick-2103/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/johnwick-2103/DSA/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/johnwick-2103/DSA/tree/master/3227-vowels-game-in-a-string) |
+| [3280-convert-date-to-binary](https://github.com/johnwick-2103/DSA/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/johnwick-2103/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
