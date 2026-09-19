@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/johnwick-2103/DSA/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/johnwick-2103/DSA/tree/master/3941-password-strength) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/johnwick-2103/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/johnwick-2103/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/johnwick-2103/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/johnwick-2103/DSA/tree/master/3894-traffic-signal-color) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/johnwick-2103/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Simulation
 |  |
 | ------- |
