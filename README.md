@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/johnwick-2103/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/johnwick-2103/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3978-unique-middle-element](https://github.com/johnwick-2103/DSA/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/johnwick-2103/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/johnwick-2103/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3866-first-unique-even-element](https://github.com/johnwick-2103/DSA/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/johnwick-2103/DSA/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
