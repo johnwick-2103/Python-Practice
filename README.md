@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/johnwick-2103/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/johnwick-2103/DSA/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/johnwick-2103/DSA/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/johnwick-2103/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/johnwick-2103/DSA/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/johnwick-2103/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/johnwick-2103/DSA/tree/master/3606-coupon-code-validator) |
