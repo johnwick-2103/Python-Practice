@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/johnwick-2103/DSA/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/johnwick-2103/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/johnwick-2103/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1184-distance-between-bus-stops](https://github.com/johnwick-2103/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/johnwick-2103/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/johnwick-2103/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
