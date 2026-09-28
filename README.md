@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/johnwick-2103/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/johnwick-2103/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/johnwick-2103/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/johnwick-2103/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/johnwick-2103/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/johnwick-2103/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1324-print-words-vertically](https://github.com/johnwick-2103/DSA/tree/master/1324-print-words-vertically) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/johnwick-2103/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/johnwick-2103/DSA/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/johnwick-2103/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/johnwick-2103/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/johnwick-2103/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/johnwick-2103/DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/johnwick-2103/DSA/tree/master/0509-fibonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/johnwick-2103/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1668-maximum-repeating-substring](https://github.com/johnwick-2103/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Enumeration
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/johnwick-2103/DSA/tree/master/0991-broken-calculator) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/johnwick-2103/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/johnwick-2103/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/johnwick-2103/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/johnwick-2103/DSA/tree/master/1323-maximum-69-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/johnwick-2103/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/johnwick-2103/DSA/tree/master/1903-largest-odd-number-in-string) |
