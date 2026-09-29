@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/johnwick-2103/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/johnwick-2103/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/johnwick-2103/DSA/tree/master/0912-sort-an-array) |
+| [0916-word-subsets](https://github.com/johnwick-2103/DSA/tree/master/0916-word-subsets) |
 | [0922-sort-array-by-parity-ii](https://github.com/johnwick-2103/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/johnwick-2103/DSA/tree/master/0929-unique-email-addresses) |
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/johnwick-2103/DSA/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/johnwick-2103/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0916-word-subsets](https://github.com/johnwick-2103/DSA/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/johnwick-2103/DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/johnwick-2103/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/johnwick-2103/DSA/tree/master/0929-unique-email-addresses) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/johnwick-2103/DSA/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/johnwick-2103/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0916-word-subsets](https://github.com/johnwick-2103/DSA/tree/master/0916-word-subsets) |
 | [0929-unique-email-addresses](https://github.com/johnwick-2103/DSA/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/johnwick-2103/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/johnwick-2103/DSA/tree/master/1002-find-common-characters) |
