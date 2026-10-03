@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/johnwick-2103/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/johnwick-2103/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/johnwick-2103/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/johnwick-2103/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/johnwick-2103/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/johnwick-2103/DSA/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/johnwick-2103/DSA/tree/master/1550-three-consecutive-odds) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/johnwick-2103/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/johnwick-2103/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/johnwick-2103/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/johnwick-2103/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1859-sorting-the-sentence](https://github.com/johnwick-2103/DSA/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/johnwick-2103/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/johnwick-2103/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
