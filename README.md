@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/johnwick-2103/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/johnwick-2103/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/johnwick-2103/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/johnwick-2103/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/johnwick-2103/DSA/tree/master/0912-sort-an-array) |
 | [0916-word-subsets](https://github.com/johnwick-2103/DSA/tree/master/0916-word-subsets) |
