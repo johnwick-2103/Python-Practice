@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/johnwick-2103/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/johnwick-2103/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/johnwick-2103/DSA/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/johnwick-2103/DSA/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/johnwick-2103/DSA/tree/master/0912-sort-an-array) |
 | [0916-word-subsets](https://github.com/johnwick-2103/DSA/tree/master/0916-word-subsets) |
 | [0922-sort-array-by-parity-ii](https://github.com/johnwick-2103/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/johnwick-2103/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/johnwick-2103/DSA/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
+| [0908-smallest-range-i](https://github.com/johnwick-2103/DSA/tree/master/0908-smallest-range-i) |
 | [0932-beautiful-array](https://github.com/johnwick-2103/DSA/tree/master/0932-beautiful-array) |
 | [0991-broken-calculator](https://github.com/johnwick-2103/DSA/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/johnwick-2103/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
