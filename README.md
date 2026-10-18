@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/johnwick-2103/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/johnwick-2103/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/johnwick-2103/DSA/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/johnwick-2103/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/johnwick-2103/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/johnwick-2103/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/johnwick-2103/DSA/tree/master/0137-single-number-ii) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/johnwick-2103/DSA/tree/master/0051-n-queens) |
 | [0491-non-decreasing-subsequences](https://github.com/johnwick-2103/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/johnwick-2103/DSA/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/johnwick-2103/DSA/tree/master/1980-find-unique-binary-string) |
@@ -716,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/johnwick-2103/DSA/tree/master/2427-number-of-common-factors) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/johnwick-2103/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
