@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/johnwick-2103/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/johnwick-2103/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/johnwick-2103/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/johnwick-2103/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/johnwick-2103/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/johnwick-2103/DSA/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/johnwick-2103/DSA/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/johnwick-2103/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/johnwick-2103/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/johnwick-2103/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/johnwick-2103/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/johnwick-2103/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/johnwick-2103/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/johnwick-2103/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/johnwick-2103/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/johnwick-2103/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/johnwick-2103/DSA/tree/master/0242-valid-anagram) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/johnwick-2103/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/johnwick-2103/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/johnwick-2103/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/johnwick-2103/DSA/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/johnwick-2103/DSA/tree/master/0420-strong-password-checker) |
