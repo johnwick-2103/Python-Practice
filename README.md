@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/johnwick-2103/DSA/tree/master/0722-remove-comments) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/johnwick-2103/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/johnwick-2103/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/johnwick-2103/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0812-largest-triangle-area](https://github.com/johnwick-2103/DSA/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/johnwick-2103/DSA/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/johnwick-2103/DSA/tree/master/0832-flipping-an-image) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnwick-2103/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/johnwick-2103/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/johnwick-2103/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/johnwick-2103/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0832-flipping-an-image](https://github.com/johnwick-2103/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/johnwick-2103/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/johnwick-2103/DSA/tree/master/0905-sort-array-by-parity) |
